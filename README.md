@@ -12,7 +12,7 @@ This repository provides code to reproduce the findings and figures of [1] and [
 Please cite [1] or [2] if you use any of these codes for your own work. 
 
 # References
-[1] T. Breunung and B. Balachandran. Preditcion of Freak Waves from Buoy Measurements. Scientific Reports, in print.
+[1] Breunung, T., & Balachandran, B. (2024). Prediction of freak waves from buoy measurements. Scientific Reports, 14(1), 16048. https://doi.org/10.1038/s41598-024-66315-3
 
 [2] Breunung, T., & Balachandran, B. (2023, June). Are Rogue Waves Predictable From Field Measurements?. In International Conference on Offshore Mechanics and Arctic Engineering (Vol. 86847, p. V002T02A015). American Society of Mechanical Engineers. https://doi.org/10.1115/OMAE2023-103020
 
