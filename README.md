@@ -6,7 +6,7 @@ Department of Mechanical Engineering, University of Maryland, College Park, Mary
 This software is made public for research use only. It may be modified and redistributed under the terms of the MIT License.
 
 # Content
-This repository provides code to reproduce the findings and figures of [1] and [2].
+This repository provides code to reproduce the findings and figures of [1].
  
 # Citation
 Please cite [1] or [2] if you use any of these codes for your own work. 
